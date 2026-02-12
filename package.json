@@ -1,0 +1,34 @@
+{
+  "name": "cheollima",
+  "version": "1.0.0",
+  "description": "Korean mythical winged horse capable of traveling thousand li in a day",
+  "category": "MYTHOLOGICAL_CREATURE",
+  "keywords": [
+    "cheollima",
+    "chollima",
+    "천리마",
+    "Korean mythology",
+    "winged horse",
+    "celestial horse",
+    "thousand-li horse",
+    "Korean culture",
+    "national symbol",
+    "North Korea",
+    "excellence",
+    "speed",
+    "pegasus",
+    "qianlima"
+  ],
+  "culturalOrigin": "Korean",
+  "relatedPhenomena": [
+    "pegasus",
+    "sleipnir",
+    "buraq",
+    "gumiho",
+    "samjoko",
+    "haetae"
+  ],
+  "lastUpdated": "2026-01-14",
+  "symbolism": "Excellence, Speed, Progress",
+  "type": "Mythical Creature"
+}
